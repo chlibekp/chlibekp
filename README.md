@@ -5,3 +5,4 @@ I write code :)
 🎨 https://artivio.xyz - An AI image generator <br>
 📊 https://quiccstatus.com - Quick and Simple status pages <br>
 🛡️ https://github.com/chlibekp/ddos-proxy - Lightweight ddos protection proxy, that uses cloudflare turnstile <br>
+🎮 https://bingo-game.online - Multiplayer bingo <br>
